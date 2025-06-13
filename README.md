@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vidushi-vi/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vidushi-vi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/vidushi-vi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/vidushi-vi/LeetCode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vidushi-vi/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vidushi-vi/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
