@@ -15,7 +15,5 @@ class Solution:
         while fastp.next is not None:
             fastp = fastp.next
             slowp = slowp.next
-        delNode = slowp.next
         slowp.next = slowp.next.next
-        delNode = None
         return head
