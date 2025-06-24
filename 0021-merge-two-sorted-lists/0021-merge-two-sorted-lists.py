@@ -18,9 +18,9 @@ class Solution:
 
         if list1 is not None:
             temp.next=list1
-        else:
+        elif list2 is not None:
             temp.next=list2
-
+        
         return dummy.next
         
         
