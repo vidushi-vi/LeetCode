@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vidushi-vi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vidushi-vi/LeetCode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vidushi-vi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vidushi-vi/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
