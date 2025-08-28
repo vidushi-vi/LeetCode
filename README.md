@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vidushi-vi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/vidushi-vi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/vidushi-vi/LeetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/vidushi-vi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/vidushi-vi/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vidushi-vi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/vidushi-vi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vidushi-vi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/vidushi-vi/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidushi-vi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vidushi-vi/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/vidushi-vi/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vidushi-vi/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vidushi-vi/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
