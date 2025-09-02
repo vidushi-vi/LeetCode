@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vidushi-vi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vidushi-vi/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vidushi-vi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/vidushi-vi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/vidushi-vi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/vidushi-vi/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/vidushi-vi/LeetCode/tree/master/0455-assign-cookies) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vidushi-vi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/vidushi-vi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/vidushi-vi/LeetCode/tree/master/0344-reverse-string) |
 ## Linked List
 |  |
