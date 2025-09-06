@@ -1,17 +1,18 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        res = []
+        ans=[]
+        ds=[]
+        def findSubsets(ind: int):
+            ans.append(ds[:])
+            for i in range(ind,len(nums)):
+                if i!=ind and nums[i]==nums[i-1]:
+                    continue
+                ds.append(nums[i])
+                findSubsets(i+1)
+                ds.pop()
+        nums.sort() 
+        findSubsets(0)
+        return ans
 
-        def backtrack(start, path):
-            # Add current subset
-            res.append(path[:])
-
-            # Try adding each remaining element
-            for i in range(start, len(nums)):
-                path.append(nums[i])
-                backtrack(i + 1, path)
-                path.pop()  # Backtrack
-
-        backtrack(0, [])
-        return res
+        
         
