@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vidushi-vi/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vidushi-vi/LeetCode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vidushi-vi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/vidushi-vi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vidushi-vi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/vidushi-vi/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vidushi-vi/LeetCode/tree/master/0062-unique-paths) |
+| [1013-fibonacci-number](https://github.com/vidushi-vi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vidushi-vi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vidushi-vi/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vidushi-vi/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/vidushi-vi/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vidushi-vi/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vidushi-vi/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vidushi-vi/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
