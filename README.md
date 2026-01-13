@@ -174,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vidushi-vi/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/vidushi-vi/LeetCode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vidushi-vi/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
