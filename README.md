@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/vidushi-vi/LeetCode/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/vidushi-vi/LeetCode/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/vidushi-vi/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/vidushi-vi/LeetCode/tree/master/0620-not-boring-movies) |
